@@ -2,7 +2,7 @@
 <p>A Software Developer & Passoniate Learner</p>
 <br>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samrosemohammed&theme=dark&show_icons=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samrosemohammed&theme=dark&show_icons=true&v=1"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrosemohammed&layout=compact"/>
 
