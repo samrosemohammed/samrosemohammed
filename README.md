@@ -17,6 +17,7 @@
 <img align="left" alt="CSS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="JavaScripts" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-%2320232A.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 <br>
 
 ## Backend Development
