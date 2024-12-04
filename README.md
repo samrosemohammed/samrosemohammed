@@ -24,7 +24,6 @@
 <img align="left" alt="Node Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="mangoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-%2320232A.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 <br><br>
 
 ## Editor
